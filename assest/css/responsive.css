@@ -121,6 +121,9 @@
     .subscribe__heading {
         margin-bottom: 20px;
     }
+    .subscribe__form {
+        padding: 20px 6px;
+    }
     .subscribe__social {
         align-items: center;
         justify-content: center;
