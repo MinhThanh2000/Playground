@@ -5,6 +5,9 @@
 }
 
 @media (max-width: 768px) {
+    .category__list {
+        justify-content: center;
+    }
     .category__item {
         width: calc(50% - 22.5px);
         margin-bottom: 30px;
@@ -113,6 +116,7 @@
     }
     .subscribe {
         flex-direction: column;
+        margin-bottom: 20px;
     }
     .subscribe__title,
     .subscribe__info {
