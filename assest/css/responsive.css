@@ -122,7 +122,10 @@
         margin-bottom: 20px;
     }
     .subscribe__form {
-        padding: 20px 6px;
+        padding: 20px 8px;
+    }
+    .subscribe__input {
+        width: 100%;
     }
     .subscribe__social {
         align-items: center;
